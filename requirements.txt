@@ -1,0 +1,5 @@
+mcp>=1.12,<2
+aiohttp>=3.9,<4
+aiohttp-socks>=0.8
+pystray>=0.19
+Pillow>=10.1
